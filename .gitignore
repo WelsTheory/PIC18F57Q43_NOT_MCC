@@ -4,7 +4,12 @@
 /nbproject/private
 /debug
 
-prueba.X/dist
-prueba.X/build
-prueba.X/nbproject
-prueba.X/debug
+Hola_mundo.X/dist
+Hola_mundo.X/build
+Hola_mundo.X/nbproject
+Hola_mundo.X/debug
+
+LCD.X/dist
+LCD.X/build
+LCD.X/nbproject
+LCD.X/debug
