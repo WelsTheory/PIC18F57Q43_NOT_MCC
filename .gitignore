@@ -33,3 +33,8 @@ UART.X/dist
 UART.X/build
 UART.X/nbproject
 UART.X/debug
+
+ADC.X/dist
+ADC.X/build
+ADC.X/nbproject
+ADC.X/debug
