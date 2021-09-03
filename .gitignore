@@ -38,3 +38,13 @@ ADC.X/dist
 ADC.X/build
 ADC.X/nbproject
 ADC.X/debug
+
+PWM_16bits.X/dist
+PWM_16bits.X/build
+PWM_16bits.X/nbproject
+PWM_16bits.X/debug
+
+Capturador.X/dist
+Capturador.X/build
+Capturador.X/nbproject
+Capturador.X/debug
