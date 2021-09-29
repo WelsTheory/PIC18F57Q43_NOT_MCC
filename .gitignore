@@ -63,3 +63,8 @@ EEPROM.X/dist
 EEPROM.X/build
 EEPROM.X/nbproject
 EEPROM.X/debug
+
+CLC.X/dist
+CLC.X/build
+CLC.X/nbproject
+CLC.X/debug
